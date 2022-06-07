@@ -7,15 +7,15 @@
 
 # Screenshots
 
-![img](./images/python_example.png)
-![img](./images/dashboard.png)
+![img](./assets/python_example.png)
+![img](./assets/dashboard.png)
 
 # Introduction
 
 This repository is a little guide to recreate my workspace, with the previous NvChad config for nvim.
 This config for nvim has:
 
-- Custom highlighting for lua and python. 
+- Custom highlighting for lua, python and php. In the following days im going to upload custom highlighting for bash LaTeX and markdown too.
 - Installed LSP servers for php, lua and bash
 - More plugins than NvChad's default plugins like:    
   - **Nvim-ts-rainbow** *A Treesitter module which helps to identify brackets with colors in your workspace*
@@ -50,6 +50,3 @@ You only need to copy the custom folder into your `~/.config/nvim/lua/` folder a
 
 Note that im using ArchLinux, so you need to adjust the commands for your distro, as the name of the packages. 
 But thats only for the default config of this plugin, you can read the documentation of the plugin [**here**](https://github.com/frabjous/knap) and set your custom config with any browser or any pdfviewer. 
-
-
-
