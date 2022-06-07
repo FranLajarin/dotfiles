@@ -1,43 +1,6 @@
 # Index
 
-- [Introduction](./README.md#Introduction)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [Introduction](#Introduction)
 
 # Introduction
 
