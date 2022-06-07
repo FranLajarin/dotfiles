@@ -7,19 +7,8 @@
 
 # Screenshots
 
-<p align="left">
-	<a href="./images/dashboard.png" target="_blank">
-		<img alt="hackthebox" src="./images/dashboard.png">
-	</a>
-</p>
-
-<p align="right">
-	<a href="./images/python_example.png" target="_blank">
-		<img alt="hackthebox" src="./images/python_example.png">
-	</a>
-</p>
-
-![img]()
+![img](./images/python_example.png)
+![img](./images/dashboard.png)
 
 # Introduction
 
