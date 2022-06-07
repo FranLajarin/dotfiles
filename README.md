@@ -8,3 +8,4 @@ This config for nvim has:
   - **Nvim-ts-rainbow** *A Treesitter module which helps to identify brackets with colors in your workspace*
   - **Treesitter playground** *Another module which helps you to identify highlightings, its usefull to make own colorschemes*
 
+# 
