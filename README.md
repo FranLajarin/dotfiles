@@ -48,7 +48,8 @@ You only need to copy the custom folder into your `~/.config/nvim/lua/` folder a
   paru -S texlive-humanities
   ```
 
-> Note that im using ArchLinux, so you need to adjust the commands for your distro, as the name of the packages. 
-But thats only for the default config of this plugin, you can read the documentation of the plugin here and set your custom config with any browseror pdfviewer.
+Note that im using ArchLinux, so you need to adjust the commands for your distro, as the name of the packages. 
+But thats only for the default config of this plugin, you can read the documentation of the plugin [**here**](https://github.com/frabjous/knap) and set your custom config with any browser or any pdfviewer. 
+
 
 
